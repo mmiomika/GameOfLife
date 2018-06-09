@@ -1,0 +1,2 @@
+# GameOfLife
+Multithreading course task
